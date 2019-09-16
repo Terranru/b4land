@@ -24,3 +24,10 @@
     top: 0;
     background: rgba(244, 244, 244, 0.79);
    }
+
+   .description{
+       position: absolute;
+       top: 30%;
+       margin: auto;
+       padding: 2em;
+   }
